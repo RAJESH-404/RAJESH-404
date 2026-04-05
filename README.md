@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=230&section=header&text=INDIAN CYBER CID OWNER&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
-</p><h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=230&section=header&text=INDIAN%20CYBER%20CID%20OWNER&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+</p>
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=⚡+RAJESH+⚡;NOT+A+NAME;IS+BRAND;HACKER+Mode+ON;INDIA+Cyber+CID+OWNER;"/>
 </h1>
 <p align="center">
