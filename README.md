@@ -19,7 +19,7 @@
 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/MADE%20IN%20INDIA-SPAMMER%20%26%20PROGRAMMER-black?style=for-the-badge&logo=hackthebox&logoColor=00ffcc">
-</p><h2 align="center">⚡INDIA MAL⚡</h2><p align="center">
+</p><h2 align="center">⚡INDIAN MAL⚡</h2><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&lines=Hacker+Mode+Activated...;Welcome+To+RAJESH+System;Bypassing+Firewalls...;Access+Granted+✔;Cyber+World+Loading..."/>
 </p><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&size=22&center=true&vCenter=true&lines=Initializing+System...;Connecting+To+Dark+Server...;Accessing+Root...;Permission+Granted..."/>
