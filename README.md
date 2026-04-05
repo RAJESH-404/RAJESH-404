@@ -2,7 +2,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=230&section=header&text=INDIAN%20CYBER%20CID%20OWNER&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&center=true&vCenter=true&width=700&lines=⚡+RAJESH+⚡;⚡+RAJESH+⚡;⚡+RAJESH+⚡;NOT+A+NAME;NOT+A+NAME;A+BRAND;A+BRAND;HACKER+Mode+ON;HACKER+Mode+ON;INDIA+Cyber+CID+OWNER;INDIA+Cyber+CID+OWNER&color=FF0000;FF7F00;FFFF00;00FF00;0000FF;4B0082;9400D3"/>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=⚡+RAJESH+⚡"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF7F00&center=true&vCenter=true&width=700&lines=NOT+A+NAME"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FFFF00&center=true&vCenter=true&width=700&lines=A+BRAND"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=HACKER+Mode+ON"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=0000FF&center=true&vCenter=true&width=700&lines=INDIA+Cyber+CID+OWNER"/>
+
+</p>
+
 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/MADE%20IN%20INDIA-SPAMMER%20%26%20PROGRAMMER-black?style=for-the-badge&logo=hackthebox&logoColor=00ffcc">
